@@ -3,10 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-singh-08a46a25b/) 
-
----
-
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshuman-singh-08a46a25b)](https://www.linkedin.com/in/anshuman-singh-08a46a25b/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anshuman-yellow)](https://stackoverflow.com/users/21197915/anshuman)
 
 I'm
